@@ -31,8 +31,6 @@ Notebook  for running the spatial plot for 1-D circular stepping-stone populatio
 **Spatial_Plots_Mrholess.ipynb**: 
 Notebook for running the spatial plot for 1-D circular stepping-stone populations when m*rho << 1 << L. Outputs multiple spatial plots within the transition zone like the plot seen in Fig 3.Spatial_cartoon_fixation.pdf
 
-Notebook for running 2-D toroidal stepping-stone population simulations where m*rho << 1  over 50 trials and outputs the allele frequency spectrum seen in Fig 12 along with the Wright Fisher fit. Simply change m*rho value to make it >> 1 to get Fig 11. 
-
 **Heterozygosity_Mrhogreat.ipynb**: 
 Notebook for calculating the mean heterozygosity for 1-D circular stepping-stone populations when 1 << m*rho << L. Outputs heteerozygosity plot seen in Fig 10. 
 
@@ -43,7 +41,7 @@ Notebook for calculating the mean heterozygosity for 1-D circular stepping-stone
 Notebook for running the spatial plot for 1-D circular stepping-stone populations when 1 << m*rho << L. Outputs multiple spatial plots within the transition zone like the plot seen in Fig 4.
 
 **Spatial_Plots_Mrholess.ipynb**: 
-Notebookfor running the spatial plot for 1-D circular stepping-stone populations when m*rho << 1 << L. Outputs multiple spatial plots within the transition zone like the plot seen in Fig 3.Spatial_cartoon_fixation.pdf
+Notebook for running the spatial plot for 1-D circular stepping-stone populations when m*rho << 1 << L. Outputs multiple spatial plots within the transition zone like the plot seen in Fig 3.Spatial_cartoon_fixation.pdf
 
 
 **Spatial_cartoon_prefixation.pdf and Spatial_cartoon_fixation.pdf**: 
